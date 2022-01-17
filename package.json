@@ -1,8 +1,8 @@
 {
   "name": "bottomless-pit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Key-value stores",
-  "main": "compiled-js/bottomless-pit.js",
+  "main": "compiled-js/src/bottomless-pit.js",
   "types": "src/bottomless-pit.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
