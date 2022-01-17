@@ -1,0 +1,28 @@
+{
+  "name": "bottomless-pit",
+  "version": "1.0.0",
+  "description": "Key-value stores",
+  "main": "compiled-js/bottomless-pit.js",
+  "types": "src/bottomless-pit.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kernrj/swiss-cheese.git"
+  },
+  "dependencies": {
+    "yaml": "^1",
+    "swiss-cheese": "^1"
+  },
+  "devDependencies": {
+    "typescript":  "^4",
+    "@types/node": "^16"
+  },
+  "author": "Rick Kern",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kernrj/bottomless-pit/issues"
+  },
+  "homepage": "https://github.com/kernrj/bottomless-pit#readme"
+}
